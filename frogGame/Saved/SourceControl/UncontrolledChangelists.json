@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/frogGame/frogGame/Content/Assets/OriginalModels/lilpadprototype.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/lilpadprototype.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Textures/lilypad_baseColor.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Materials/m_lilypad.uasset",
+				"E:/frogGame/frogGame/Content/FirstPerson/Maps/pond.umap",
+				"E:/frogGame/frogGame/Content/Assets/OriginalModels/A4Mat.uasset",
+				"D:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset",
 				"C:/temp/frogGame/frogGame/frogGame/Content/__ExternalActors__/FirstPerson/Maps/JumpTest/C/21/0A08IRS8WVCAPTVFKAQA7G.uasset",
 				"C:/temp/frogGame/frogGame/frogGame/Content/__ExternalActors__/FirstPerson/Maps/JumpTest/7/P8/MBXKQZSRAFO8A83KGKT3TO.uasset",
 				"C:/temp/frogGame/frogGame/frogGame/Content/__ExternalActors__/FirstPerson/Maps/JumpTest/E/B6/LGFWU7V7H591DKI66FQVB6.uasset",
