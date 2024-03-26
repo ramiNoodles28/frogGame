@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/frogGame/frogGame/Content/Assets/Models/frogTongueAnimFlick_Skeleton.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/frogTongueAnimFlick_PhysicsAsset.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/frogTongueAnimFlick_Anim.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/frogTongueAnimFlick.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/tongueAnim.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/tongueIdle.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Animation/NewBlendSpace1D.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Animation/NewAnimBlueprint.uasset",
+				"E:/frogGame/frogGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/frogGame/frogGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/P3/L1UIYKCB0WRMWYR1V7ZENW.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/tongueAnim_Skeleton.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/tongueAnim_PhysicsAsset.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/tongueAnim_Anim.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/tongueIdle_PhysicsAsset.uasset",
+				"E:/frogGame/frogGame/Content/Assets/Models/tongueIdle_Anim.uasset"
+			]
+		}
+	]
+}
