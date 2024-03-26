@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/temp/frogGame/frogGame/frogGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/temp/frogGame/frogGame/frogGame/Content/Assets/Animation/NewAnimBlueprint.uasset",
 				"C:/Users/the_h/Documents/Purdue HW/cgt255/frogGame/frogGame/Content/Assets/Models/gatorSmooth.uasset",
 				"C:/Users/the_h/Documents/Purdue HW/cgt255/frogGame/frogGame/Content/Assets/Models/lilpadprototype.uasset",
 				"C:/Users/the_h/Documents/Purdue HW/cgt255/frogGame/frogGame/Content/Assets/Models/lilypad1.uasset",
