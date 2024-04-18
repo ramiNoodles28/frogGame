@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Amber/OneDrive/Desktop/frogGame/frogGame/Content/FirstPerson/Blueprints/deathScreen.uasset",
+				"C:/Users/Amber/OneDrive/Desktop/frogGame/frogGame/Content/Assets/BM_Pond.uasset",
+				"C:/Users/Amber/OneDrive/Desktop/frogGame/frogGame/Content/FirstPerson/Maps/river.umap",
+				"C:/Users/Amber/OneDrive/Desktop/frogGame/frogGame/Content/__ExternalActors__/FirstPerson/Maps/trees/8/QX/7QK9C62I4888NU4O7H5BO7.uasset",
+				"C:/Users/Amber/OneDrive/Desktop/frogGame/frogGame/Content/Assets/BM_Tree.uasset",
+				"C:/Users/Amber/OneDrive/Desktop/frogGame/frogGame/Content/Assets/pond-ambience-frogs-and-insects.uasset",
+				"C:/Users/Amber/OneDrive/Desktop/frogGame/frogGame/Content/Assets/wind-heavy-trees-aspens-clatter-waves-foliage-leaves-gusty.uasset",
 				"C:/temp/AditMalpani/frogGame/frogGame/Content/Assets/pondStuff/heronPath1_BP1.uasset",
 				"C:/temp/AditMalpani/frogGame/frogGame/Content/Assets/pondStuff/pondHeron1_BP1.uasset",
 				"C:/temp/AditMalpani/frogGame/frogGame/Content/Assets/pondStuff/heronPath2_BP.uasset",
